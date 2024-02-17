@@ -1,4 +1,4 @@
-COURSE = 
+COURSE = infosec
 
 .PHONY: all clean
 
